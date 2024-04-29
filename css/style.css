@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(241, 240, 240);
+}
+
+.content-wrapper {
+    width: 100rem;
+    justify-content: center;
+    margin: auto;
+    border: 5px solid navy;
+}
+
+.card-body {
+    border: 5px solid black;
+
+    height: 500px;
+}
+
+.card-header-div {
+    background-color: blue;
+}
